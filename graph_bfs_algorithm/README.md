@@ -1,6 +1,6 @@
 Milk supplier Kazimierz has decided to keep up with the times and retire his loyal horse, converting the cart into a swing. However, he still needs a new means of transportation to deliver milk. The well-known shaman and inventor on the Island, Leonard, agreed to help him design a car, but they were unable to determine the required size of the milk container. They sought help from Ada and Serweryn. Kazimierz did not visit all the villages on the island, only a certain subset of them. Therefore, the computer scientists decided to determine the number of villages that Kazimierz passes through on his way to his furthest destination. Based on this, Leonard will be able to calculate the volume of the milk container in Kazimierz's car.
 
-Input:
+# Input:
 
 The first line of the input contains a natural number n, indicating the total number of villages. The next line is a natural number m, which determines the number of villages visited by Kazimierz.
 
@@ -12,11 +12,11 @@ The last two lines of the input are, respectively, the name of the starting vill
 
 1 ≤ m ≤ 100
 
-Output:
+# Output:
 
 The number of villages visited during the journey to the farthest destination village.
 
-Example:
+# Example:
 
 Input:
 
