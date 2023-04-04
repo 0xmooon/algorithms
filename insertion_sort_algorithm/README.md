@@ -14,25 +14,41 @@ The first line of the input contains an integer t, which is the number of tests.
 For each set of data, the program should print an ordered list of peaks in the order of tower placement. Each peak should be displayed in the format s-w. In the case of peaks with the same values, the order of occurrence on the list should be preserved.
 
 # Example:
+
 Input:
+#
+3
+
+5
+
+Indrys 3
+
+Fossa 67
+
+Dingo 64
+
+Werweta 10
+
+Kwezal 1
 
 3
-5
+
 Indrys 3
-Fossa 67
-Dingo 64
-Werweta 10
-Kwezal 1
-3
-Indrys 3
+
 Fossa 2
+
 Dingo 4
+
 1
+
 Indrys 10
 
+#
 Output:
-
+#
 Kwezal-1 Dingo-64 Indrys-3 Werweta-10 Fossa-67
+
 Fossa-2 Dingo-4 Indrys-3
+
 Indrys-10 
 
